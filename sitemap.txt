@@ -1,0 +1,4 @@
+http://SITENAME.TLD/index.html
+http://SITENAME.TLD/what-is-bullying.html
+http://SITENAME.TLD/how-can-i-help.html
+http://SITENAME.TLD/help.html

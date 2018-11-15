@@ -1,0 +1,32 @@
+.navbar-right {
+    float: right;
+    justify-content: flex-end
+}
+
+.navbar-left {
+    float: left;
+    flex-grow: 1;
+    justify-content: flex-start
+}
+
+#home-hero {
+    /* This weird gradient extists to make the image darker*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pregnancy.jpg);
+    background-position-y: 40%;
+    background-position-x: 40%;
+    background-size: cover
+}
+#types-hero {
+    /* This weird gradient extists to make the image darker*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(banana.jpg);
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: cover
+}
+#what-hero {
+    /* This weird gradient extists to make the image darker*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pills.jpg);
+    background-position-y: 60%;
+    background-position-x: 50%;
+    background-size: cover
+}
